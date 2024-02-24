@@ -99,16 +99,11 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/94dfX0X/ezgif-com-animated-gif-maker.gif"  />
+  <img height="500" width="300" src="https://i.ibb.co/94dfX0X/ezgif-com-animated-gif-maker.gif"  />
 </div>
 
 ###
