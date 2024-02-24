@@ -72,9 +72,6 @@
   <img src="https://profile-counter.glitch.me/jeyprabu/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/jeyprabu/jeyprabu/output/snake.svg" alt="Snake animation" />
 
 ###
 
