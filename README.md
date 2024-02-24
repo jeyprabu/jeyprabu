@@ -103,7 +103,7 @@
 ###
 
 <div align="center">
-  <img height="500" width="350" src="https://i.ibb.co/94dfX0X/ezgif-com-animated-gif-maker.gif"  />
+  <img height="500" src="https://i.ibb.co/94dfX0X/ezgif-com-animated-gif-maker.gif"  />
 </div>
 
 ###
