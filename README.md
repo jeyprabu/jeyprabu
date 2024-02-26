@@ -101,12 +101,6 @@
 
 
 ###
-
-<div align="center">
-  <img height="500" src="https://i.ibb.co/94dfX0X/ezgif-com-animated-gif-maker.gif"  />
-</div>
-
-###
 <!---
 jeyprabu/jeyprabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
